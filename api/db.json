@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "My new stream here",
+      "id": 1
+    },
+    {
+      "title": "Another strteam",
+      "description": "jhadsjhasd",
+      "id": 2
+    },
+    {
+      "title": "435et",
+      "description": "erf22323122312312323232312312312312312312312312312313123123123",
+      "id": 5
+    }
+  ]
+}
